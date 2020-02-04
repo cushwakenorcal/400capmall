@@ -1,0 +1,649 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.caltrain-section {
+	border-radius: 21px;
+	background: #ffffff !important;
+	opacity:0.9;
+	padding:10px;
+	padding-top: 25px;
+	width:40%;
+}
+.caltrain-section p a {
+	color:#bd2332;
+	font-size: 2.5em;
+	font-family: "Miso Bold";
+	opacity:0.8;
+	padding:10px;
+	width:40%;
+	margin-left:30px;
+}
+
+
+.section{
+padding:10px 0 !important;
+}
+
+.highlights-bullets {
+font-family:"Miso Bold" ;
+background:#bd2332;
+padding:21px;
+list-style-type: disc;
+
+}
+.highlights-bullets li {
+color:#ffffff;
+margin-left:20px;
+text-align: left;
+font-size:20px;
+}
+.highlights-bullets-wellness {
+font-family:"Miso Bold" ;
+background:none;
+padding:0px;
+list-style-type: disc;
+min-height:240px;
+min-width: 210px;
+}
+.highlights-bullets-wellness li {
+color:#ffffff;
+margin-left:;
+text-align: left;
+font-size:20px;
+line-height:30px;
+letter-spacing:2px;
+}
+
+.wellness-bullets {
+background:#bd2332;
+padding:20px;}
+.wellness-bullets li {
+color:#ffffff;
+}
+  .title-light {
+  font-family: "Miso Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:25px;
+  clear: right;
+  display: block;
+  line-height: 20px !important;
+  }
+.highlights-sub-bullets {
+font-family:"Miso Bold" ;
+margin-left:10px;
+list-style-type: none;
+}
+.rendering-left {
+	margin-left:40px;
+	margin-right:10px;
+}
+.highlights-bullets-floorplan {
+font-family:"Miso Bold" ;
+background:none;
+padding:30px;
+list-style-type: disc;
+}
+.highlights-bullets-floorplan li {
+color:#505051;
+margin-left:200px;
+text-align: left;
+font-size:20px;
+line-height:30px;
+}
+.amenities{
+background:#ffffff; !important;
+opacity: 0.8;
+/*width:50%;*/
+height:300px;
+width:50%;
+margin-left:auto;
+margin-right:auto;
+
+}
+.amenities a{
+font-family:"Miso Bold" ;
+font-size: 35px;
+color:#bd2332 !important;
+margin-left:auto;
+margin-right:auto;
+letter-spacing: 2px;
+margin-top: 10px;
+margin-bottom: 10px !important;
+text-align:left;
+display:inline-flex !important;
+}
+.amenities a:hover{
+background:none !important;
+}
+.section-separator{
+border:solid 1px #bd2332 ;	
+margin-top:50px;
+}
+.section-separator-amenities {
+border:solid 1px #bd2332 ;	
+margin-top:22px;
+}
+.section-separator-wellness {
+border:solid 1px #bd2332 ;	
+margin-top:62px;
+}
+.transport-map{
+	width:100% !important;
+}
+#wellnessTitle{
+	background: none;
+	position:relative;
+	top:60px;
+}
+.wellness1{
+	text-align: right !important;
+	margin-right: 200px;
+}
+
+
+.wellness2{
+	text-align: center !important;
+}
+.upperTitle {
+	height:20px;
+}
+.upperTitle2{
+	vertical-align: bottom;
+}
+/
+.bg-tech{
+  background:#bd2332;
+}
+#btn-download{
+	font-size:17px;
+	padding:15px;
+	border:1px solid #ffffff;
+	background:#bd2332;
+}
+#btn-download2{
+	font-size:17px;
+	padding:15px;
+
+	border:1px solid #ffffff;
+	background:#bd2332;
+	margin-left: 40px;
+	position:relative;
+	top:40px;
+}
+.coming-soon{
+	font-size:13px;
+	clear: both;
+}
+.contact-info {
+	margin:0px auto;
+	padding:0px auto;
+	letter-spacing: 2px;
+}
+.contact-name {
+	margin:0px auto;
+	padding:0px auto;
+}
+
+a:hover {
+	color:#3f3f3e !important;
+}
+#wellnessFloorPlan {
+	max-width: 100;
+}
+#transport1 {
+
+
+}
+#transport2 {
+	height:auto;
+
+}
+.trainstation {
+	padding:40px;
+	background: #ffffff !important;
+	opacity:0.8;
+	float:left;
+	position:relative;
+	left:0px;
+	margin-right:300px !important;
+
+}
+.trainstation li a {
+font-size: 25px;
+letter-spacing: 2px;
+color:#bd2332;
+margin-left: 20px;
+text-align: left;
+}
+#tagline-1{
+	color:#ffffff !important;
+	background: #585757;
+	opacity:0.6;
+	padding:20px;
+	border-radius: 10px;
+	position:relative;
+	bottom:-20px !important;
+	margin-bottom:20px;
+
+}
+
+
+#tagline-2{
+	color:#ffffff !important;
+	background: #585757;
+	opacity:0.6;
+	padding:20px;
+	border-radius: 10px;
+		position:relative;
+	bottom:-100px !important;
+}
+#tagline-3{
+	color:#ffffff !important;
+	background: #585757;
+	opacity:0.6;
+	padding:20px;
+	border-radius: 10px;
+		position:relative;
+	bottom:-100px !important;
+}
+
+.subTitle{
+	margin-left:20px;
+}
+/*        Tablet        */
+@media all and (max-width: 990px) {
+
+#line-1{
+	margin-top:72px;
+}
+
+#line-2{
+	margin-top:32px;
+}
+#line-3{
+	margin-top:42px;
+
+}
+
+.wellness1{
+	text-align: center !important;
+}
+
+.amenities a{
+font-family:"Miso Bold" ;
+font-size: 15px !important;
+color:#bd2332 !important;
+margin-left:auto;
+margin-right:auto;
+letter-spacing: 2px;
+margin-top: 10px;
+margin-bottom: 10px !important;
+text-align:left;
+display:inline-flex !important;
+}
+.amenities a:hover{
+background:none !important;
+}
+
+.btn-lg {
+
+	font-size:25px !important;
+}
+}
+
+@media all and (max-width: 767px) {
+
+.bg-secondary {
+
+width:500px;
+
+}
+.caltrain-section {
+	border-radius: 21px;
+	background: #ffffff !important;
+	opacity:0.9;
+	padding:10px;
+	padding-top: 25px;
+	width:47%;
+}
+.caltrain-section p a {
+	color:#bd2332;
+	font-size: 2.5em;
+	font-family: "Miso Bold";
+	opacity:0.8;
+	padding:10px;
+	width:60%;
+	margin-left:30px;
+}
+
+.highlights-bullets-wellness {
+font-family:"Miso Bold" ;
+background:none;
+padding:0px;
+list-style-type: disc;
+min-height:220px;
+min-width: 200px;
+}
+.highlights-bullets-wellness li {
+color:#ffffff;
+margin-left:;
+text-align: left;
+font-size:18px;
+line-height:30px;
+letter-spacing:2px;
+}
+
+}
+
+@media all and (max-width: 610px) {
+.bg-secondary {
+width:400px;
+}
+
+.caltrain-section {
+	border-radius: 21px;
+	background: #ffffff !important;
+	opacity:0.9;
+	padding:10px;
+	padding-top: 25px;
+	width:70%;
+}
+.caltrain-section p a {
+	color:#bd2332;
+	font-size: 2.5em;
+	font-family: "Miso Bold";
+	opacity:0.8;
+	padding:10px;
+	width:70%;
+	margin-left:30px;
+}
+
+}
+
+@media all and (max-width: 430px) {
+
+.bg-secondary {
+width:300px;
+}
+.caltrain-section {
+	border-radius: 21px;
+	background: #ffffff !important;
+	opacity:0.9;
+	padding:10px;
+	padding-top: 25px;
+	width:80%;
+}
+.caltrain-section p a {
+	color:#bd2332;
+	font-size: 2.5em;
+	font-family: "Miso Bold";
+	opacity:0.8;
+	padding:10px;
+	width:80%;
+	margin-left:30px;
+}
+
+}
+@media all and (max-width: 369px) {
+.caltrain-section {
+	border-radius: 21px;
+	background: #ffffff !important;
+	opacity:0.9;
+	padding:10px;
+	padding-top: 25px;
+	width:100%;
+}
+.caltrain-section p a {
+	color:#bd2332;
+	font-size: 2.5em;
+	font-family: "Miso Bold";
+	opacity:0.8;
+	padding:10px;
+	width:100%;
+	margin-left:30px;
+}
+
+}
+
+/* Tablet Landscape Orientation */
+
+@media screen and (min-width:768px) and (max-width:1024px) and (orientation:landscape){
+
+#line-1 {
+	margin-top:82px;
+}
+
+#line-2 {
+	margin-top:22px;
+}
+#line-3 {
+	margin-top:32px;
+
+}
+
+.menu li a {
+font-family: "Miso bold" !important;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #292929;
+  opacity: 0.5;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  max-width: 100%;
+  white-space: normal;
+}
+}
+
+/* Iphone Landscape */
+
+@media screen and (min-width:320px) and (max-width:767px) and (orientation:landscape) {
+
+
+.row {
+margin-top:-10px !important;
+margin-bottom:-10px !important;
+padding-top:0px !important;
+padding-bottom:0px !important;
+
+}
+#floorplanTitle { 
+	margin-top:40px !important;
+	padding-top:20px;
+	background:none;
+	position:relative;
+	top:10px;
+}
+
+#project-section {
+position:relative;
+top:-20px;
+left:10px;
+background:none;
+
+}
+#project-section-2 {
+position:relative;
+top:-50px;
+background:none;
+}
+
+#project-cafe {
+position:relative;
+top:-470px;
+background:none;
+}
+#project-cafe-2 {
+position:relative;
+top:-500px;
+background:none;
+}
+
+#section-Gallery{
+position:relative;
+top:-50px !important;
+left:10px;
+background:none;
+}
+
+#section-Gallery-2{
+position:relative;
+top:-100px !important;
+background:none;
+}
+#section-Wellness{
+position:relative;
+top:-200px;
+background:none;
+}
+#section-Wellness-2{
+position:relative;
+top:-300px;
+background:none;
+}
+#section-Wellness-3{
+position:relative;
+top:-350px;
+background:none;
+}
+
+#project-building{
+position:relative;
+top:-300px;
+background:none;
+}
+#project-hypothetical-0 {
+position:relative;
+top:-300px;
+background:none;
+z-index: 4000 !important;
+}
+#project-hypothetical {
+position:relative;
+top:-200px;
+background:none;
+z-index: 4000 !important;
+}
+#project-location {
+position:relative;
+top:-50px;
+background:none;
+
+}
+
+}
+
+
+/* Iphone Portrait */
+
+
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) { 
+#amenities-tile-section{
+background:none;
+width:50% !important;
+display: inline-block;
+}
+#amenities-tile-section-2{
+background:none;
+width:50% !important;
+display: inline-block;
+}
+#floorplanTitle { 
+	margin-top:40px !important;
+	padding-top:20px;
+	background:none;
+	position:relative;
+	top:10px;
+}
+#project-section {
+position:relative;
+top:-20px;
+background:none;
+
+}
+#project-section-2 {
+position:relative;
+top:-70px;
+background:none;
+}
+#project-cafe {
+position:relative;
+top:-470px;
+background:none;
+}
+#project-cafe-2 {
+position:relative;
+top:-500px;
+background:none;
+}
+
+#section-Gallery{
+position:relative;
+top:-60px !important;
+left:10px;
+background:none;
+}
+
+#section-Gallery-2{
+position:relative;
+top:-200px !important;
+background:none;
+}
+#section-Wellness{
+position:relative;
+top:-300px;
+background:none;
+}
+
+#section-Wellness-2{
+position:relative;
+top:-300px;
+background:none;
+}
+#section-Wellness-3{
+position:relative;
+top:-350px;
+background:none;
+}
+#project-building{
+position:relative;
+top:-300px;
+background:none;
+}
+
+#project-hypothetical-0 {
+position:relative;
+top:-300px;
+background:none;
+z-index: 4000 !important;
+}
+#project-hypothetical {
+position:relative;
+top:-320px;
+background:none;
+z-index: 4000 !important;
+}
+#project-location {
+position:relative;
+top:-50px;
+background:none;
+
+}
+.subTitle {
+	display:inline !important;
+}
+.caltrain-section  {
+	width:100%;
+	}
+.caltrain-section p a {
+	font-size: 10px;
+
+
+
+}
+}
+
+
+
+
